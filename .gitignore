@@ -1,0 +1,86 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Dataset — fichiers volumineux (téléchargés à l'exécution)
+data/vehicles.csv
+data/vehicles.csv.zip
+data/auto-mpg.data
+
+# Modèle ML entraîné
+models/mlp_consommation.keras
+models/scaler.joblib
+de.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local

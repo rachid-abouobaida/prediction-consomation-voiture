@@ -1,0 +1,17 @@
+[
+  "cylinders",
+  "displ",
+  "year",
+  "is_diesel",
+  "forced_induction",
+  "drive_AWD",
+  "drive_FWD",
+  "drive_RWD",
+  "VClass_Car",
+  "VClass_Pickup",
+  "VClass_SUV",
+  "VClass_Special",
+  "VClass_Van",
+  "tranny_Automatic",
+  "tranny_Manual"
+]

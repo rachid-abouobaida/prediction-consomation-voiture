@@ -1,0 +1,15 @@
+{
+  "name": "prediction-consommation-api",
+  "version": "1.0.0",
+  "description": "API Node.js / Express — passerelle entre le frontend Vue 3 et le service ML Python",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.0"
+  }
+}
